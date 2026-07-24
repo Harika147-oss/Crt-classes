@@ -46,24 +46,4 @@ public class Module3{
 
     }
 }
-// 6. Multiple inputs
-// 7. Student details
-// 8. Employee details
-// 9. Book details
-// 10. Product details
-// 11. Sum of three numbers
-// 12. Area from user input
-// 13. BMI calculator
-// 14. Currency converter
-// 15. Temperature converter
-// 16. Age calculator
-// 17. Percentage calculator
-// 18. Time converter
-// 19. Seconds to HH:MM:SS
-// 20. Digit extraction
-// 21. Read sentence
-// 22. Read paragraph
-// 23. Menu input
-// 24. Mixed datatype input
-// 25. Scanner pitfalls
 
